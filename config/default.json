@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://chandler123:Firewire18_@socialplatform-82ykf.mongodb.net/test?retryWrites=true",
+  "jwtSecret": "secret",
+  "githubClientId": "",
+  "githubSecret": ""
+}
