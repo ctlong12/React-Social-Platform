@@ -2,7 +2,7 @@
 
 The React-Social-Platform demonstrates an understadning of the MERN/MEAN workflow. The project is a simple social platform built with MongoDB, Express, React, Redux, and Node.js.  
 
-<a target="_blank"><img align="center" src="http://i65.tinypic.com/dvnghf.png" border="0" alt="Home page of the Sustainability Application"></a>
+<a target="_blank"><img align="center" src="https://raw.githubusercontent.com/ctlong12/React-Social-Platform/master/images/Homepage.jpg" border="0" alt="Home page of the Sustainability Application"></a>
 
 ## Features
 
