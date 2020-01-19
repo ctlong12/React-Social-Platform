@@ -7,7 +7,7 @@ The React-Social-Platform demonstrates an understadning of the MERN/MEAN workflo
 
 ## Features
 
-* Login/logout capabilities using Express and MongoDB.
+* User Authentication
 * Customizable user profiles
 * Comments & Discussion
 * Automatic feed updates
