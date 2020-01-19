@@ -3,7 +3,7 @@
 
 
 ## Overview
-The React-Social-Platform demonstrates an understanding of the MERN/MEAN stack. The project is a simple social platform called Developer Connector. Although only a concept, Developer COnnecter is a robust social media platform built with MongoDB, Express, React, Redux, and Node.js.  
+The React-Social-Platform demonstrates an understanding of the MERN/MEAN stack. The project is a simple social platform called Developer Connector. Although only a concept, Developer Connecter is a robust social media platform built with MongoDB, Express, React, Redux, and Node.js.  
 
 ## Features
 
