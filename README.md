@@ -1,4 +1,3 @@
-# Developer Connector
 
 <a target="_blank"><img align="center" src="https://raw.githubusercontent.com/ctlong12/React-Social-Platform/master/images/Homepage.jpg" border="0" alt="Home page of the Sustainability Application"></a>
 
